@@ -1,0 +1,16 @@
+---
+title: "Basic-R"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+2 + 2
+```
+
+
